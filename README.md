@@ -8,12 +8,6 @@
 
 قراء العالم - القرآن الكريم - أكثر من 190 قارئ قراء العالم - mp30quran 
 
-| النسخة            | رابط التحميل                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------------------|
-| نسخة جوجل بلاي    | [تحميل من هنا](https://github.com/mp30quran/mp30quran_world/releases/download/v1.3/mp30quran_world_v1.3.apk) |
-| نسخة هواوي آب جاليري | [تحميل من هنا](https://github.com/mp30quran/mp30quran_world/releases/download/v1-huawei/mp30quran_world-v1-huawei.apk) |
-
-
 ![image](https://github.com/user-attachments/assets/6e1ae92c-9183-4246-9ef9-7cf15bab2db6)
 
 ![image](https://github.com/user-attachments/assets/c1727410-cb82-43ea-b784-bbc24af3dd62)
@@ -28,6 +22,13 @@
 
 
 
+
+# برنامج قراء العالم - تحميل النسخ
+
+| النسخة            | رابط التحميل                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------------------|
+| نسخة هواوي آب جاليري | [تحميل من هنا](https://github.com/mp30quran/mp30quran_world/releases/download/v1-huawei/mp30quran_world-v1-huawei.apk) |
+| نسخة جوجل بلاي    | [تحميل من هنا](https://github.com/mp30quran/mp30quran_world/releases/download/v1.3/mp30quran_world_v1.3.apk) |
 
 
 
